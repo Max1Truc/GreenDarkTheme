@@ -9,6 +9,8 @@
     "primaryColor": "#282c30",
     "secondaryColor": "#222428",
     "accentColor": "#00be00",
+    "accentDarkColor": "#00be00",
+    "accentLightColor": "#00be00",
     "editor-background-color": "#27292d",
     "white-black": "white",
     "black-white": "white",
