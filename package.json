@@ -5,7 +5,6 @@
   "version": "0.2.0",
   "highlight" : "default",
   "folder": "GreenDarkTheme",
-  "type": "custom_theme",
   "colors": {
     "primaryColor": "#282c30",
     "secondaryColor": "#222428",
