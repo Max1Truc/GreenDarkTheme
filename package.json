@@ -1,7 +1,7 @@
 {
-  "Name": "GreenDarkTheme",
-  "Description":"Green dark theme, as in the title.",
-  "Author": "Nico Greffin & Max1Truc",
+  "name": "GreenDarkTheme",
+  "description":"Green dark theme, as in the title.",
+  "author": "Nico Greffin & Max1Truc",
   "version": "0.2.0",
   "highlight" : "default",
   "folder": "GreenDarkTheme",
